@@ -1,0 +1,7 @@
+{
+    "botsAmount": 35,
+    "proxyType": "socks5", 
+    "information-help": {
+        "Available proxy types are": "https, socks4, socks5"
+    }
+}
